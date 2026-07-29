@@ -1,0 +1,11 @@
+import CAlgebrasWAlgebrasRelationLemmaCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CAlgebrasWAlgebrasRelationLemmaCanonicalLaneLean
+
+theorem c_algebra_embedding_into_w_algebra (A : AdmissibleClass) :
+    constraine_calgebra_walgebra_endgame A := by
+  exact constrained_calgebra_walgebra_endgame A
+
+end CAlgebrasWAlgebrasRelationLemmaCanonicalLaneLean
+end HautevilleHouse
